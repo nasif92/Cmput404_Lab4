@@ -1,0 +1,13 @@
+Question 1: What is the link to your github repository for this lab?
+
+Answer:
+
+Question 2: After starting a brand new Django application and running the runserver command, what does the browser show you?
+
+Answer: Congratulations page showing Django has been installed successfully
+
+Question 3: After creating the first view within polls, what does the browser show you when navigating to / and to /polls respectively?
+
+Answer: For / it shows the 404 Page not found http error, and adding /polls takes me to the polls index with the message "Hello, world. You're at the polls index."
+
+Quest
